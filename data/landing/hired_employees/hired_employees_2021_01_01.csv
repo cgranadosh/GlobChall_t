@@ -11,8 +11,4 @@ id,name,datetime,department_id,job_id
 1010,Luis Torres,2021-10-11T10:05:00Z,3,1
 1011,Paula Diaz,2021-11-19T15:35:00Z,4,2
 1012,Michael Lee,2021-12-07T18:40:00Z,5,5
-1013,Michael Lee,2021-12-07T18:40:00Z,5,
-1014,Michael Lee,2021-12-07T18:40:00Z,,5
-,Michael Lee,2021-12-07T18:40:00Z,5,5
-1016,,2021-12-07T18:40:00Z,5,5
-1017,Michael Lee,,5,5
+,Michael Leoe,2021-12-07T18:40:00Z,5,5
